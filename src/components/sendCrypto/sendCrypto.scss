@@ -1,0 +1,131 @@
+@media screen and (min-width: 350px) {
+  .--send-crypto-page {
+    margin-top: 2rem;
+    text-align: center;
+    color: red;
+  }
+
+  .--send-crypto-form {
+    margin-top: 5rem;
+    padding: 10px;
+  }
+
+  .--wallet-label {
+    font-size: 2rem;
+  }
+
+  .--wallet-input {
+    padding: 5px;
+    width: 35.5rem;
+    height: 4rem;
+    margin-top: 1rem;
+  }
+
+  .--flex-content {
+    // display: flex;
+    // justify-content: space-between;
+    margin-top: 3rem;
+  }
+
+  .--wallet-amount {
+    width: 35.5rem;
+    height: 4rem;
+    padding: 5px;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  .--wallet-gif {
+    width: 35.5rem;
+    padding: 5px;
+    height: 4rem;
+    margin-right: 2.6rem;
+    margin-top: 1rem;
+  }
+
+  .--label-message {
+    margin-top: 3rem;
+  }
+
+  .--wallet-input-message {
+    padding: 5px;
+    width: 35.5rem;
+    height: 10rem;
+    margin-top: 1rem;
+  }
+
+  .--send-btn {
+    padding: 10px;
+    border-radius: 20px;
+    width: 12rem;
+    margin-top: 2rem;
+    background-color: red;
+    color: white;
+  }
+}
+
+
+@media screen and (min-width: 1030px) {
+  .--send-crypto-page {
+    margin-top: 2rem;
+    text-align: center;
+    color: red;
+  }
+
+  .--send-crypto-form {
+    margin-top: 5rem;
+  }
+
+  .--wallet-label {
+    font-size: 2rem;
+  }
+
+  .--wallet-input {
+    padding: 5px;
+    width: 74.1rem;
+    height: 4rem;
+    margin-top: 1rem;
+  }
+
+  .--flex-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+  }
+
+  .--wallet-amount {
+    width: 30rem;
+    height: 4rem;
+    padding: 5px;
+    margin-top: 1rem;
+  }
+
+  .--wallet-gif {
+    width: 30rem;
+    padding: 5px;
+    height: 4rem;
+    margin-right: 6rem;
+    margin-top: 1rem;
+  }
+
+  .--label-message {
+    margin-top: 3rem;
+  }
+
+  .--wallet-input-message {
+    padding: 5px;
+    width: 50rem;
+    height: 10rem;
+    margin-top: 1rem;
+  }
+
+  .--send-btn {
+    margin-left: 60rem;
+    padding: 10px;
+    border-radius: 20px;
+    width: 12rem;
+    margin-top: 2rem;
+    background-color: red;
+    color: white;
+  }
+}

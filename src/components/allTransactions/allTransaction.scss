@@ -1,0 +1,151 @@
+@media screen and (min-width: 350px) {
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .--send-crypto-page {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .info-1 {
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-2 {
+    text-align: center;
+    display: flex;
+    gap: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-3 {
+    text-align: center;
+    display: flex;
+    gap: 41px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-4 {
+    text-align: center;
+    display: flex;
+    gap: 34px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-5 {
+    text-align: center;
+    display: flex;
+    gap: 45px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .--flex-contents {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+
+  .--flex-contents-details {
+    display: flex;
+    margin: 6px;
+    justify-content: space-between;
+    margin-top: 1.3rem;
+  }
+
+  .--gif-image {
+    width: 16.2rem;
+    height: 17rem;
+    margin-top: 3rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+
+@media screen and (min-width: 1030px) {
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .--send-crypto-page {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .--flex-contents {
+    margin-top: 4rem;
+    margin-right: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 25px;
+  }
+
+  .--gif-image {
+    width: 22rem;
+    height: 17rem;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-1 {
+    text-align: center;
+    display: flex;
+    gap: 68px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-2 {
+    text-align: center;
+    display: flex;
+    gap: 88px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-3 {
+    text-align: center;
+    display: flex;
+    gap: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-4 {
+    text-align: center;
+    display: flex;
+    gap: 92px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info-5 {
+    text-align: center;
+    display: flex;
+    gap: 104px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

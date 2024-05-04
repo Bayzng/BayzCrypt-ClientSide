@@ -1,0 +1,85 @@
+@media screen and (min-device-width: 350px) {
+  .sd-body {
+    padding: 15px;
+    margin-top: -60px;
+    max-height: calc(100vh - 67px);
+    overflow-x: hidden;
+  }
+  .sd-body ul {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0;
+    padding: 0;
+  }
+  .sd-body ul li {
+    list-style: none;
+    margin-bottom: 8px;
+  }
+  .sd-body ul li a:hover {
+    color: white;
+    background-color: green;
+    position: relative;
+  }
+  .sd-body ul li .sd-link {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 16px;
+    color: black;
+    background-color: #e5e8ec;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .container-fluid img {
+    width: 15%;
+    object-fit: cover;
+    border-radius: 50%;
+    height: 10%;
+  }
+}
+
+@media screen and (min-device-width: 1030px) {
+  .sd-body {
+    margin-right: -20rem;
+    padding: 15px;
+    font-size: 5rem;
+    max-height: calc(100vh - 67px);
+    overflow-x: hidden;
+  }
+
+  ul {
+    margin-top: -5rem;
+  }
+
+  .sd-body ul li {
+    font-weight: 600;
+  }
+  .sd-body ul li a :hover {
+    color: white;
+    background-color: green;
+    position: relative;
+  }
+  .sd-body ul li .sd-link {
+    display: inline-block;
+    width: 100%;
+
+    padding: 20px 26px;
+    color: black;
+    background-color: #e5e8ec;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .--all-settings-last {
+    margin-left: 2rem;
+    margin-top: 3rem;
+    display: flex;
+    gap: 10px;
+  }
+
+  .--last-h4 {
+    margin-top: 4px;
+  }
+}

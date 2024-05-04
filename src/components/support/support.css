@@ -1,0 +1,68 @@
+@media screen and (min-device-width: 350px) {
+    .--support {
+        margin-top: 4rem;
+    }
+    
+    .--support-second {
+        text-align: center;
+    }
+    
+    .--support p {
+        padding: 5rem;
+    }
+    
+    .--support-span {
+        color: orange;
+    }
+    
+    .--support-contact {
+        margin-top: 3rem;
+        margin: 10px;
+        margin-left: 4rem;
+    }
+    
+    .--support-account {
+        margin-top: 4rem;
+        margin-bottom: 5rem;
+        display: flex;
+        position: absolute;
+        left: 20rem;
+        gap: 1rem;
+        margin-left: 4rem;
+    }
+}
+
+@media screen and (min-device-width: 1030px) {
+    .--support {
+        margin-top: 4rem;
+    }
+    
+    .--support-second {
+        text-align: center;
+    }
+    
+    .--support p {
+        padding: 5rem;
+    }
+    
+    .--support-span {
+        color: orange;
+    }
+    
+    .--support-contact {
+        margin-top: 3rem;
+        display: flex;
+        gap: 10rem;
+        margin-left: 3rem;
+    }
+    
+    .--support-account {
+        margin-top: 20rem;
+        display: flex;
+        position: absolute;
+        left: 70rem;
+        gap: 10rem;
+        margin-left: 3rem;
+    }
+}
+

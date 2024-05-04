@@ -1,0 +1,64 @@
+.success {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.p-success {
+  color: #404f5e;
+  font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+  font-size: 20px;
+  margin: 0;
+  margin-bottom: 5rem;
+}
+
+.p-success-second {
+  color: #404f5e;
+  font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+  font-size: 20px;
+  margin: 0;
+}
+
+
+i {
+  color: #9abc66;
+  font-size: 100px;
+  line-height: 200px;
+  margin-left: -15px;
+}
+
+.button-login {
+  padding: 10px;
+  margin: 5px;
+  font-size: 2.5rem;
+  border-radius: 5px;
+  margin-top: 4rem;
+  width: 15rem;
+  background-color: green;
+  color: white;
+}
+
+/* REGISTERATION SUCCESS CSS */
+
+.--reg-success {
+  text-align: center;
+  margin-top: 9rem;
+}
+
+.--reg-success h1 {
+  margin-bottom: 2rem;
+}
+
+.--reg-success h3 {
+  margin-bottom: 2rem;
+  color: green;
+}
+
+.--reg-success p {
+  font-weight: 700;
+}
+
+.regImg {
+  margin-top: 6rem;
+  margin-bottom: 8rem;
+  width: 15rem;
+}

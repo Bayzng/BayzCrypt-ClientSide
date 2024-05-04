@@ -1,0 +1,71 @@
+@media screen and (min-width: 350px) {
+  .--transaction-page {
+    margin-top: 7rem;
+    margin-bottom: 5rem;
+  }
+
+  .--transaction {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-around;
+  }
+
+  .--transaction h3 {
+    font-size: 2rem;
+  }
+
+  .--transaction-history {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .--transaction-details {
+    display: flex;
+    gap: 2px;
+  }
+
+  .--transaction-details-second {
+    margin-top: 5.5px;
+    margin-bottom: -15px;
+  }
+
+  .now {
+    margin-top: 2rem;
+  }
+
+  .my-Transaction {
+    margin-top: 2rem;
+  }
+}
+
+@media screen and (min-width: 1030px) {
+  .--transaction-page {
+    margin-top: 7rem;
+  }
+
+  .--transaction {
+    display: flex;
+    gap: 10rem;
+    justify-content: space-around;
+    margin-bottom: 3rem;
+  }
+
+  .--transaction-history {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .--transaction-details {
+    display: flex;
+    gap: 10px;
+  }
+
+  .--transaction-details-second {
+    margin-top: 5.5px;
+    margin-bottom: -15px;
+  }
+
+  .now {
+    margin-top: 2rem;
+  }
+}

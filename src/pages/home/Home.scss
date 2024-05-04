@@ -1,0 +1,50 @@
+@media screen and (min-device-width: 350px) {
+  .container {
+  }
+  
+  .hero-text {
+    margin-top: 3rem;
+    padding: 2rem;
+  }
+  .hero-text h2 {
+    font-size: 3.3rem;
+    font-weight: 700;
+  }
+  .hero-text p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .hero-image img {
+    margin-top: 1.5rem;
+    width: 30rem;
+    height: 30rem;
+    margin-left: 2.5rem;
+  }
+  
+}
+
+@media screen and (min-device-width: 1030px) {
+  .containers {
+    margin-top: 4rem;
+    display: flex;
+  }
+  .hero-text {
+    margin-top: 10rem;
+    padding: 2rem;
+  }
+  .hero-text p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .hero-image img {
+    width: 50rem;
+    margin-top: 6rem;
+    height: 36rem;
+  }
+}
+
+::-webkit-scrollbar {
+  display: none;
+  scroll-behavior: smooth;
+}
+
